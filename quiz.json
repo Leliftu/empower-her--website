@@ -1,0 +1,270 @@
+{
+  "categories": {
+    "help": {
+      "name": "Health and Care",
+      "description": "You care about people’s wellbeing.",
+      "careers": [
+        "Doctor or nurse",
+        "Psychologist or counselor",
+        "Public health specialist",
+        "Social worker"
+      ],
+      "majors": [
+        "Medicine",
+        "Nursing",
+        "Psychology",
+        "Public Health"
+      ]
+    },
+    "create": {
+      "name": "Arts, Media and Design",
+      "description": "You express ideas and make things people feel.",
+      "careers": [
+        "Writer or journalist",
+        "Graphic or fashion designer",
+        "Filmmaker or musician",
+        "Architect"
+      ],
+      "majors": [
+        "Journalism",
+        "Fashion or Graphic Design",
+        "Film and Media",
+        "Architecture"
+      ]
+    },
+    "tech": {
+      "name": "Technology and Engineering",
+      "description": "You like building and solving logical problems.",
+      "careers": [
+        "Software developer",
+        "Data scientist",
+        "Civil or electrical engineer",
+        "Cybersecurity specialist"
+      ],
+      "majors": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Data Science",
+        "Information Systems"
+      ]
+    },
+    "lead": {
+      "name": "Business and Leadership",
+      "description": "You organize people and turn ideas into action.",
+      "careers": [
+        "Entrepreneur",
+        "Project or program manager",
+        "Economist or banker",
+        "Policy maker"
+      ],
+      "majors": [
+        "Business Administration",
+        "Economics",
+        "Entrepreneurship",
+        "Public Policy"
+      ]
+    },
+    "science": {
+      "name": "Science and Research",
+      "description": "You are curious and love finding out why.",
+      "careers": [
+        "Biologist or chemist",
+        "Environmental scientist",
+        "Agricultural scientist",
+        "Medical researcher"
+      ],
+      "majors": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science",
+        "Agriculture"
+      ]
+    },
+    "advocacy": {
+      "name": "Law, Education and Social Impact",
+      "description": "You stand up for fairness and help others grow.",
+      "careers": [
+        "Lawyer or judge",
+        "Teacher or professor",
+        "Human rights advocate",
+        "Diplomat"
+      ],
+      "majors": [
+        "Law",
+        "International Relations",
+        "Education",
+        "Sociology or Gender Studies"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question": "On a free afternoon you most enjoy…",
+      "options": [
+        {
+          "text": "Helping a friend through a problem",
+          "category": "help"
+        },
+        {
+          "text": "Drawing, writing or making videos",
+          "category": "create"
+        },
+        {
+          "text": "Fixing or building something",
+          "category": "tech"
+        },
+        {
+          "text": "Experimenting to learn how things work",
+          "category": "science"
+        }
+      ]
+    },
+    {
+      "question": "Friends usually come to you for…",
+      "options": [
+        {
+          "text": "Comfort and advice",
+          "category": "help"
+        },
+        {
+          "text": "New ideas",
+          "category": "create"
+        },
+        {
+          "text": "Organizing a plan",
+          "category": "lead"
+        },
+        {
+          "text": "Fair decisions",
+          "category": "advocacy"
+        }
+      ]
+    },
+    {
+      "question": "Your favorite school subject group…",
+      "options": [
+        {
+          "text": "Biology or chemistry",
+          "category": "science"
+        },
+        {
+          "text": "Literature or art",
+          "category": "create"
+        },
+        {
+          "text": "Math or ICT",
+          "category": "tech"
+        },
+        {
+          "text": "History, civics or languages",
+          "category": "advocacy"
+        }
+      ]
+    },
+    {
+      "question": "The problem you most want to solve…",
+      "options": [
+        {
+          "text": "Illness and poor healthcare",
+          "category": "help"
+        },
+        {
+          "text": "Unemployment and weak businesses",
+          "category": "lead"
+        },
+        {
+          "text": "Inequality and injustice",
+          "category": "advocacy"
+        },
+        {
+          "text": "Climate, food and energy",
+          "category": "science"
+        }
+      ]
+    },
+    {
+      "question": "Your dream workplace…",
+      "options": [
+        {
+          "text": "Hospital or clinic",
+          "category": "help"
+        },
+        {
+          "text": "Studio or newsroom",
+          "category": "create"
+        },
+        {
+          "text": "Tech company or workshop",
+          "category": "tech"
+        },
+        {
+          "text": "Courtroom or school",
+          "category": "advocacy"
+        }
+      ]
+    },
+    {
+      "question": "A strength of yours…",
+      "options": [
+        {
+          "text": "Patient and caring",
+          "category": "help"
+        },
+        {
+          "text": "Imaginative",
+          "category": "create"
+        },
+        {
+          "text": "Logical",
+          "category": "tech"
+        },
+        {
+          "text": "Persuasive and organized",
+          "category": "lead"
+        }
+      ]
+    },
+    {
+      "question": "You would be proudest of…",
+      "options": [
+        {
+          "text": "Someone you helped recover or succeed",
+          "category": "help"
+        },
+        {
+          "text": "Something original you made",
+          "category": "create"
+        },
+        {
+          "text": "A team you led to success",
+          "category": "lead"
+        },
+        {
+          "text": "A question you answered through research",
+          "category": "science"
+        }
+      ]
+    },
+    {
+      "question": "In a group project you…",
+      "options": [
+        {
+          "text": "Make sure everyone feels heard",
+          "category": "help"
+        },
+        {
+          "text": "Build the solution",
+          "category": "tech"
+        },
+        {
+          "text": "Lead and coordinate",
+          "category": "lead"
+        },
+        {
+          "text": "Speak up for the group",
+          "category": "advocacy"
+        }
+      ]
+    }
+  ]
+}

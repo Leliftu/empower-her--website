@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mastercard Foundation Scholars Program",
+    "description": "For academically talented young Africans, offered through partner universities."
+  },
+  {
+    "name": "Chevening (UK)",
+    "description": "Government scholarships for one-year master’s study in the UK."
+  },
+  {
+    "name": "DAAD (Germany)",
+    "description": "Scholarships for study and research in Germany."
+  },
+  {
+    "name": "Erasmus Mundus (Europe)",
+    "description": "Joint master’s programs across European universities."
+  },
+  {
+    "name": "Fulbright (USA)",
+    "description": "Graduate study and research funding. Check your country’s program."
+  },
+  {
+    "name": "Commonwealth Scholarships (UK)",
+    "description": "For students from eligible Commonwealth countries."
+  }
+]

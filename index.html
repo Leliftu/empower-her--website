@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Empower Her</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<header><nav>
+<strong>Empower Her</strong>
+<a href="#library">Free Library</a><a href="#stories">20 Women</a><a href="#roadmap">Study Abroad</a><a href="#scholarships">Scholarships</a><a href="#passion">Find Your Major</a><a href="#contact">Contact</a>
+</nav></header>
+
+<div class="hero">
+<h1>Empower Her</h1>
+<p>Free books, true stories of African women, a step-by-step study abroad guide, and tools to discover your passion and your future career.</p>
+<a class="btn" href="#passion">Find your passion</a> <a class="btn alt" href="#roadmap">Start the roadmap</a>
+</div>
+
+<section id="library">
+<h2>Free Library</h2>
+<p class="sub">Self-help, psychology and educational reading from free, legal websites. This site only links out; it does not host any books.</p>
+<div class="tools" id="libChips"></div>
+<div class="grid" id="libGrid"></div>
+<h3 style="margin-top:30px">Starter reads</h3>
+<p class="note">Each link opens the named website, searching for the title where possible.</p>
+<div class="grid" id="readGrid"></div>
+<p class="note">Always check each website’s terms. Availability of a title can differ by country.</p>
+</section>
+
+<section id="stories">
+<h2>20 Inspiring African Women</h2>
+<p class="sub">Seven Ethiopian women and thirteen from across Africa. Filter or search to explore.</p>
+<div class="tools">
+<button class="chip on" data-r="all">All</button><button class="chip" data-r="eth">Ethiopian</button><button class="chip" data-r="oth">Other African</button>
+<input type="search" id="storySearch" placeholder="Search by name, country or field" aria-label="Search stories">
+</div>
+<div class="grid" id="storyGrid"></div>
+<p class="note">Please double-check facts and add photos with proper permission before publishing.</p>
+</section>
+
+<section id="roadmap">
+<h2>Study Abroad Roadmap: Grade 9 and beyond</h2>
+<p class="sub">Tick each step as you finish it. Your progress is saved on this device.</p>
+<strong id="progText">0% complete</strong>
+<div class="bar"><i id="progBar"></i></div>
+<div id="steps"></div>
+<h3>Common scholarships to research</h3>
+<div class="grid" id="schol"></div>
+<p class="note">Programs, deadlines and rules change. Always confirm on the official website.</p>
+</section>
+
+<section id="scholarships">
+<h2>Scholarship Process: Step by Step</h2>
+<p class="sub">From your first search to your first day abroad.</p>
+<ol class="proc">
+<li><b>Understand the types.</b> Full scholarships cover tuition, living costs and often flights; partial ones cover only a share. Aid can be merit-based, need-based, country-specific or subject-specific, and can come from governments, universities, foundations or companies. Many universities consider you for their own aid when you apply; others need a separate form.</li>
+<li><b>Start 12 to 18 months early.</b> Deadlines often fall 6 to 12 months before the program begins. Build a tracker with the scholarship name, link, deadline, eligibility, documents needed and status.</li>
+<li><b>Check eligibility carefully.</b> Look at nationality, age, grades, degree level, language score, field of study and any condition such as returning home after graduation. Apply only where you truly qualify, then aim for a mix of dream, realistic and safe options.</li>
+<li><b>Build your profile early.</b> Strong grades, leadership, volunteering, projects and a clear goal matter more than a long list of random activities. Keep a record of achievements, dates and results as you go.</li>
+<li><b>Prepare your documents.</b> Typical items: transcripts, certificates, passport, English test result, CV, recommendation letters, essays, and proof of financial need if required. Get copies translated or certified early, because this can take weeks.</li>
+<li><b>Write winning essays.</b> Open with a real moment, describe a challenge, show what you did, explain the result, and connect it to your major and your plan to give back. Be specific and honest, and ask two people to review it. Never copy or exaggerate.</li>
+<li><b>Choose and brief your recommenders.</b> Ask teachers or mentors at least 6 weeks ahead. Give them your CV, the scholarship description and three points you would like them to mention.</li>
+<li><b>Submit early and double-check.</b> Send everything 3 to 5 days before the deadline, keep your confirmation email, and watch your inbox and spam folder for follow-up requests.</li>
+<li><b>Prepare for interviews.</b> Practice answers to: Why this major? Why this country? Describe a time you led or solved a problem. How will you give back? Research the funder’s mission and ask thoughtful questions.</li>
+<li><b>After the decision.</b> If you win, read the conditions, accept before the deadline and start your visa. If you do not, ask for feedback if possible, improve your profile, and reapply or try other routes such as foundation years, transfers or regional programs.</li>
+</ol>
+<div class="grid">
+<div class="card"><h3>Sample timeline</h3><p>18 months before: research and tracker. 12 months: tests and recommenders. 9 months: essays and documents. 6 to 3 months: submit applications. After offers: accept, visa, housing and travel.</p></div>
+<div class="card"><h3>Beware of scams</h3><p>Real scholarships never ask you to pay to apply or guarantee a win. Use official websites and email addresses only, and never share your passport or bank details with unverified people.</p></div>
+<div class="card"><h3>Where to search</h3><p><a href="https://educationusa.state.gov" target="_blank" rel="noopener noreferrer">EducationUSA</a> · <a href="https://www.daad.de/en/" target="_blank" rel="noopener noreferrer">DAAD</a> · <a href="https://www.chevening.org" target="_blank" rel="noopener noreferrer">Chevening</a> · <a href="https://mastercardfdn.org" target="_blank" rel="noopener noreferrer">Mastercard Foundation</a>. Also check each university’s own financial aid page.</p></div>
+</div>
+</section>
+
+<section id="passion">
+<h2>Find Your Passion</h2>
+<p class="sub">Choosing a major is a process of testing, not guessing. Follow these seven steps, then take the quiz.</p>
+<ol class="proc">
+<li><b>Collect evidence.</b> For two weeks, write down which activities give you energy and which drain you, and which subjects you read about without being told to.</li>
+<li><b>Name your four circles.</b> List what you enjoy, what you are good at, what you value (for example fairness, health, creativity) and what your country or community needs. Your best majors sit where most circles overlap.</li>
+<li><b>Run small experiments.</b> Try a free course (Khan Academy, MIT OpenCourseWare), a school club, a volunteer role or a mini project in each field you are curious about. Notice how you feel after, not just during.</li>
+<li><b>Interview three professionals.</b> Ask: What does a normal day look like? What do you wish you had known? What skills matter most? Real careers often differ from the school version.</li>
+<li><b>Read the real curriculum.</b> Look up the first-year and final-year courses of a major at two universities. If the course titles excite you, that is a strong sign.</li>
+<li><b>Pick flexibly.</b> Broad majors such as sciences, business or liberal arts keep doors open. Many universities let you declare later, and you can combine a major with a minor.</li>
+<li><b>Review every term.</b> Ask yourself: Am I curious? Am I improving? Does it fit my values? It is normal to adjust, so choose with evidence rather than pressure.</li>
+</ol>
+<div class="card" style="margin-bottom:18px"><h3>Warning signs</h3><p>Choosing only for prestige, salary or family pressure; avoiding a field only because one teacher was hard; or never trying anything before deciding. Use these questions to correct course early.</p></div>
+<p class="sub">Now answer eight quick questions to see matching fields, majors and careers.</p>
+<div class="card" style="margin-bottom:18px">
+<h3>Three reflection questions</h3>
+<p>1. What do you lose track of time doing?</p>
+<p>2. What problem in your community or country do you want to solve?</p>
+<p>3. What do people often ask you for help with?</p>
+</div>
+<div id="quiz"></div>
+<button class="btn" id="quizBtn">See my results</button>
+<div id="result" aria-live="polite"></div>
+</section>
+
+<section id="contact">
+<h2>Contact and Suggestions</h2>
+<p class="sub">Suggest a woman’s story or a free book, or send feedback.</p>
+<div class="card">
+<p><label>Your name<br><input type="text" id="cName" style="width:100%"></label></p>
+<p><label>Your email<br><input type="email" id="cMail" style="width:100%"></label></p>
+<p><label>Message<br><textarea id="cMsg"></textarea></label></p>
+<button class="btn" id="cBtn">Send message</button>
+<p id="cOut" class="note" aria-live="polite"></p>
+</div>
+</section>
+
+<footer>© <span id="yr"></span> Empower Her. Built to help girls and women learn, dream and lead.</footer>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

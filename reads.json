@@ -1,0 +1,44 @@
+[
+  {
+    "title": "As a Man Thinketh",
+    "author": "James Allen",
+    "category": "self-help",
+    "source": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=As+a+Man+Thinketh"
+  },
+  {
+    "title": "Self-Help",
+    "author": "Samuel Smiles",
+    "category": "self-help",
+    "source": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=Samuel+Smiles+Self-Help"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": "self-help",
+    "source": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=Meditations+Marcus+Aurelius"
+  },
+  {
+    "title": "The Principles of Psychology",
+    "author": "William James",
+    "category": "psychology",
+    "source": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=Principles+of+Psychology+James"
+  },
+  {
+    "title": "Psychology 2e",
+    "author": "OpenStax",
+    "category": "psychology",
+    "source": "OpenStax",
+    "url": "https://openstax.org/details/books/psychology-2e"
+  },
+  {
+    "title": "Study skills and learning guides",
+    "author": "Various",
+    "category": "education",
+    "source": "Open Library",
+    "url": "https://openlibrary.org/search?q=study+skills"
+  }
+]

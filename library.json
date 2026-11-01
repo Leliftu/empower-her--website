@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Open Library",
+    "url": "https://openlibrary.org",
+    "description": "Borrow or read millions of books online for free.",
+    "categories": [
+      "self-help",
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org",
+    "description": "Over 70,000 free public-domain ebooks, no account needed.",
+    "categories": [
+      "self-help",
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "description": "Free books, texts and audio. Some need a free account.",
+    "categories": [
+      "self-help",
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "OpenStax",
+    "url": "https://openstax.org",
+    "description": "Free peer-reviewed college textbooks, including psychology.",
+    "categories": [
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "OER Commons",
+    "url": "https://oercommons.org",
+    "description": "Free teaching and learning materials from around the world.",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "description": "Free lessons in math, science, humanities and test prep.",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu",
+    "description": "Free course materials from MIT, including psychology.",
+    "categories": [
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "Standard Ebooks",
+    "url": "https://standardebooks.org",
+    "description": "Beautifully formatted, free public-domain classics.",
+    "categories": [
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "name": "LibreTexts",
+    "url": "https://libretexts.org",
+    "description": "Free online textbooks across many subjects.",
+    "categories": [
+      "psychology",
+      "education"
+    ]
+  },
+  {
+    "name": "Directory of Open Access Books",
+    "url": "https://www.doabooks.org",
+    "description": "Free academic books from publishers worldwide.",
+    "categories": [
+      "psychology",
+      "education"
+    ]
+  }
+]

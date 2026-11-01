@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Sahle-Work Zewde",
+    "country": "Ethiopia",
+    "field": "Diplomacy",
+    "region": "eth",
+    "summary": "Ethiopia’s first woman president, serving from 2018 to 2024, after a long career as a diplomat and UN official.",
+    "challenge": "Working in a field dominated by men for decades.",
+    "lesson": "Patience and preparation open doors that power alone cannot.",
+    "bio": "Born in 1950 in Addis Ababa, Sahle-Work Zewde studied natural sciences in Montpellier, France, and joined Ethiopia’s foreign service in the 1970s. She served as ambassador to Senegal, Djibouti and France, and held senior United Nations roles, including leading the UN Office at Nairobi and representing the UN to the African Union. In 2018 parliament elected her Ethiopia’s first woman president, a largely ceremonial post she used to promote peace, women’s leadership and national unity until her term ended in 2024. She speaks Amharic, French and English."
+  },
+  {
+    "id": 2,
+    "name": "Bethlehem Tilahun Alemu",
+    "country": "Ethiopia",
+    "field": "Business",
+    "region": "eth",
+    "summary": "Founded the footwear brand soleRebels in 2005, turning local craft and recycled materials into a global business.",
+    "challenge": "Building a world-class brand from a small community in Addis Ababa.",
+    "lesson": "Local skills can compete worldwide.",
+    "bio": "Bethlehem Tilahun Alemu grew up in the Zenabwork neighborhood of Addis Ababa and saw how much talent local artisans had but how little access they had to markets. In 2005 she founded soleRebels, making handmade shoes from recycled materials and local fabrics, paying fair wages and keeping production in her community. The company became known as a Fair Trade-certified footwear brand and sold around the world. She is widely seen as proof that African entrepreneurs can build global brands without leaving home."
+  },
+  {
+    "id": 3,
+    "name": "Meaza Ashenafi",
+    "country": "Ethiopia",
+    "field": "Law",
+    "region": "eth",
+    "summary": "A lawyer who helped found the Ethiopian Women Lawyers Association and later became president of the Federal Supreme Court.",
+    "challenge": "Defending women’s rights in a system slow to change.",
+    "lesson": "Use your profession to protect others.",
+    "bio": "Meaza Ashenafi trained as a lawyer at Addis Ababa University and in 1995 helped found the Ethiopian Women Lawyers Association, which gave free legal help to women. She defended a 14-year-old girl charged after resisting abduction and forced marriage, a case that inspired the film Difret and helped change attitudes toward harmful practices. She later started the Setaweet movement for women’s rights, and in 2018 she was appointed president of Ethiopia’s Federal Supreme Court, a historic first for a woman."
+  },
+  {
+    "id": 4,
+    "name": "Liya Kebede",
+    "country": "Ethiopia",
+    "field": "Fashion and health",
+    "region": "eth",
+    "summary": "Born in Addis Ababa, she became an international model, a WHO ambassador for maternal and child health, and founder of the fashion brand Lemlem.",
+    "challenge": "Using fame for something bigger than herself.",
+    "lesson": "Success is a platform for service.",
+    "bio": "Liya Kebede was born in Addis Ababa in 1978 and moved to Paris, where she was discovered as a model. She became one of the world’s best-known faces, including a major cosmetics contract. In 2005 she founded the Liya Kebede Foundation for safe motherhood and was named a World Health Organization goodwill ambassador. In 2007 she launched Lemlem, a fashion brand that employs Ethiopian weavers and brings traditional cotton craft to global markets."
+  },
+  {
+    "id": 5,
+    "name": "Derartu Tulu",
+    "country": "Ethiopia",
+    "field": "Athletics",
+    "region": "eth",
+    "summary": "Won the 10,000 m at the 1992 Olympics, becoming the first Black African woman to win Olympic gold, and won it again in 2000.",
+    "challenge": "Rising from rural Ethiopia to the world stage.",
+    "lesson": "Discipline can carry you far from where you started.",
+    "bio": "Born in 1972 in the farming highlands near Bekoji, a town famous for producing runners, Derartu Tulu trained with little equipment but great determination. At the 1992 Barcelona Olympics she won the 10,000 meters, becoming the first Black African woman to win an Olympic gold medal, and she won the same event again in Sydney in 2000. After retiring she became a leader in Ethiopian athletics and later was elected president of the Ethiopian Athletics Federation, mentoring the next generation."
+  },
+  {
+    "id": 6,
+    "name": "Tirunesh Dibaba",
+    "country": "Ethiopia",
+    "field": "Athletics",
+    "region": "eth",
+    "summary": "A long-distance champion with three Olympic gold medals and many world titles.",
+    "challenge": "Staying at the top for over a decade.",
+    "lesson": "Consistency beats talent alone.",
+    "bio": "Tirunesh Dibaba was born in 1985 near Bekoji and grew up inspired by her cousin, the champion Derartu Tulu. She won world cross-country titles as a teenager and later dominated the track, claiming Olympic gold in the 5,000 and 10,000 meters in 2008 and again in the 10,000 meters in 2012, along with several world titles. Known for her calm focus and powerful finishing kick, she later moved to the marathon and remains one of the greatest distance runners in history."
+  },
+  {
+    "id": 7,
+    "name": "Fatuma Roba",
+    "country": "Ethiopia",
+    "field": "Athletics",
+    "region": "eth",
+    "summary": "Won the marathon at the 1996 Atlanta Olympics, the first African woman to win that event.",
+    "challenge": "Opening a path where there was none.",
+    "lesson": "Being first makes it easier for the next girl.",
+    "bio": "Fatuma Roba was born in 1973 in the Arsi region of Ethiopia. She began running as a girl, and by the 1990s was a leading marathoner. At the 1996 Atlanta Olympics she won the marathon, the first African woman to do so, and then won the Boston Marathon three years in a row from 1997 to 1999. Her success proved that women from rural Ethiopia could compete and win at the highest level, and she became a role model for girls in athletics."
+  },
+  {
+    "id": 8,
+    "name": "Wangari Maathai",
+    "country": "Kenya",
+    "field": "Environment",
+    "region": "oth",
+    "summary": "Founded the Green Belt Movement in 1977 and won the Nobel Peace Prize in 2004, the first African woman to do so.",
+    "challenge": "Opposition from powerful officials.",
+    "lesson": "Small actions, like planting a tree, can grow into movements.",
+    "bio": "Wangari Maathai was born in 1940 in Nyeri, Kenya. A scholarship took her to study biology in the United States, and she later earned a doctorate at the University of Nairobi, becoming the first woman in East and Central Africa to hold one. In 1977 she founded the Green Belt Movement, paying rural women to plant trees, which restored land, created income and gave women a voice. Despite arrests and threats, the movement planted tens of millions of trees. She won the Nobel Peace Prize in 2004 and died in 2011."
+  },
+  {
+    "id": 9,
+    "name": "Ellen Johnson Sirleaf",
+    "country": "Liberia",
+    "field": "Politics",
+    "region": "oth",
+    "summary": "Served as Liberia’s president from 2006 to 2018, the first elected woman head of state in Africa, and shared the 2011 Nobel Peace Prize.",
+    "challenge": "Leading a country recovering from civil war.",
+    "lesson": "Leadership is rebuilding what others broke.",
+    "bio": "Born in 1938 in Monrovia, Ellen Johnson Sirleaf studied accounting and economics in the United States and earned a master’s degree at Harvard. She served as Liberia’s finance minister, was imprisoned for criticizing the military government, and later worked for the United Nations and international banks. Elected president in 2005 and taking office in 2006, she became Africa’s first elected woman head of state. She led Liberia’s recovery after civil war, expanded schooling and shared the 2011 Nobel Peace Prize."
+  },
+  {
+    "id": 10,
+    "name": "Leymah Gbowee",
+    "country": "Liberia",
+    "field": "Peace activism",
+    "region": "oth",
+    "summary": "Organized women across religious lines to push for peace in Liberia and shared the 2011 Nobel Peace Prize.",
+    "challenge": "Raising a voice during war.",
+    "lesson": "Ordinary women can end wars.",
+    "bio": "Leymah Gbowee was a young mother when Liberia’s civil war devastated her country. Working as a trauma counselor, she helped organize the Women of Liberia Mass Action for Peace, in which Christian and Muslim women sat in public, wore white and demanded an end to the fighting. Their pressure helped bring warring leaders to peace talks in 2003. She later studied conflict transformation, founded a foundation to support girls and women, and shared the 2011 Nobel Peace Prize."
+  },
+  {
+    "id": 11,
+    "name": "Ngozi Okonjo-Iweala",
+    "country": "Nigeria",
+    "field": "Economics",
+    "region": "oth",
+    "summary": "An economist who became the first woman and first African to lead the World Trade Organization, starting in 2021.",
+    "challenge": "Breaking barriers in global institutions.",
+    "lesson": "Expertise plus courage changes rooms.",
+    "bio": "Born in 1954 in southeastern Nigeria, Ngozi Okonjo-Iweala studied economics at Harvard and earned a doctorate at MIT. She spent about 25 years at the World Bank, rising to managing director. She served twice as Nigeria’s finance minister, leading debt-relief negotiations and economic reforms, and later chaired the board of Gavi, the vaccine alliance. In 2021 she became the first woman and first African to lead the World Trade Organization."
+  },
+  {
+    "id": 12,
+    "name": "Chimamanda Ngozi Adichie",
+    "country": "Nigeria",
+    "field": "Writing",
+    "region": "oth",
+    "summary": "Award-winning novelist of Half of a Yellow Sun, and an influential voice on feminism and storytelling.",
+    "challenge": "Telling African stories on African terms.",
+    "lesson": "Your story matters; tell it yourself.",
+    "bio": "Chimamanda Ngozi Adichie grew up in Nsukka, Nigeria, where her father taught at the university. After starting medical studies, she moved to the United States at 19 and later completed degrees in creative writing and African studies. Her novels, including Purple Hibiscus, Half of a Yellow Sun and Americanah, won international acclaim. Her talks, The Danger of a Single Story and We Should All Be Feminists, reached millions and encouraged Africans to tell their own stories."
+  },
+  {
+    "id": 13,
+    "name": "Graça Machel",
+    "country": "Mozambique",
+    "field": "Education and advocacy",
+    "region": "oth",
+    "summary": "Became Mozambique’s education minister after independence and has championed children’s and women’s rights worldwide.",
+    "challenge": "Building schools in a newly independent, war-torn country.",
+    "lesson": "Education is the foundation of freedom.",
+    "bio": "Born in 1945 in rural Mozambique, Graça Machel studied in Lisbon and joined the liberation movement FRELIMO. After independence in 1975 she became minister of education, expanding school enrollment dramatically in a country with very few schools. In 1996 she led a major United Nations study on how war affects children, and she later founded the Graça Machel Trust to support women’s and children’s rights. She is the only woman to have been first lady of two countries."
+  },
+  {
+    "id": 14,
+    "name": "Miriam Makeba",
+    "country": "South Africa",
+    "field": "Music",
+    "region": "oth",
+    "summary": "Known as Mama Africa, she used her voice against apartheid and spent decades in exile.",
+    "challenge": "Being banned from her own country.",
+    "lesson": "Art can be activism.",
+    "bio": "Born in 1932 near Johannesburg, Miriam Makeba rose to fame with her powerful voice and African rhythms. After appearing in an anti-apartheid film and speaking about apartheid to the United Nations in 1963, South Africa revoked her passport and she lived in exile for about 31 years. She won a Grammy with Harry Belafonte in 1966, became known as Mama Africa, and returned home in 1990 after Nelson Mandela’s release. She performed until her death in 2008."
+  },
+  {
+    "id": 15,
+    "name": "Funmilayo Ransome-Kuti",
+    "country": "Nigeria",
+    "field": "Activism",
+    "region": "oth",
+    "summary": "A teacher and campaigner who led the Abeokuta Women’s Union against unfair taxes on women.",
+    "challenge": "Challenging colonial rule and male-only politics.",
+    "lesson": "Organize together and your demands are heard.",
+    "bio": "Born in 1900 in Abeokuta, Nigeria, Funmilayo Ransome-Kuti studied in England and became a teacher. She turned a women’s literacy club into the Abeokuta Women’s Union, which fought unfair taxes on market women and demanded political voice. Her campaign helped lead the local king to step down in 1949. She also pushed for women’s voting rights and education, and was the mother of musician Fela Kuti and of other leading Nigerians. She died in 1978."
+  },
+  {
+    "id": 16,
+    "name": "Yaa Asantewaa",
+    "country": "Ghana",
+    "field": "Leadership",
+    "region": "oth",
+    "summary": "Asante queen mother who led resistance against British forces in the War of the Golden Stool in 1900.",
+    "challenge": "Rallying people when leaders hesitated.",
+    "lesson": "Courage can be contagious.",
+    "bio": "Yaa Asantewaa was born in the 1840s and became queen mother of Ejisu in the Asante kingdom of today’s Ghana. In 1900 the British governor demanded the Golden Stool, the sacred symbol of Asante unity. When male leaders hesitated, she urged them to fight, and then personally led the Asante resistance, known as the War of the Golden Stool. The British captured her and exiled her to the Seychelles, where she died in 1921. She is remembered as a symbol of courage."
+  },
+  {
+    "id": 17,
+    "name": "Nawal El Saadawi",
+    "country": "Egypt",
+    "field": "Medicine and writing",
+    "region": "oth",
+    "summary": "A physician and author who wrote boldly about women’s rights and was imprisoned in 1981 for her views.",
+    "challenge": "Censorship and threats.",
+    "lesson": "Truth-telling is worth the cost.",
+    "bio": "Born in 1931 in a village north of Cairo, Nawal El Saadawi became a physician and served as Egypt’s director of public health. Her book Women and Sex and her novel Woman at Point Zero challenged female genital cutting and women’s oppression. She lost her government position in 1972 and was imprisoned in 1981 for her criticism of the government. Her books were translated worldwide and inspired generations of feminists until her death in 2021."
+  },
+  {
+    "id": 18,
+    "name": "Fatima al-Fihri",
+    "country": "Morocco",
+    "field": "Education",
+    "region": "oth",
+    "summary": "Credited with founding the University of al-Qarawiyyin in Fez in 859 CE, among the oldest universities in the world.",
+    "challenge": "Few women led institutions in her time.",
+    "lesson": "One act of generosity can last over 1,000 years.",
+    "bio": "Born around 800 in Kairouan, in present-day Tunisia, Fatima al-Fihri moved with her family to Fez, Morocco. After inheriting wealth, she chose to invest it in the community. In 859 she founded the al-Qarawiyyin mosque and school, which grew into the University of al-Qarawiyyin, often cited as one of the oldest continuously operating universities in the world. Her story shows that women have shaped education for more than a thousand years."
+  },
+  {
+    "id": 19,
+    "name": "Thuli Madonsela",
+    "country": "South Africa",
+    "field": "Law and justice",
+    "region": "oth",
+    "summary": "Served as South Africa’s Public Protector from 2009 to 2016 and became a respected law professor.",
+    "challenge": "Investigating powerful people.",
+    "lesson": "Integrity is a form of strength.",
+    "bio": "Thuli Madonsela grew up in modest circumstances in Johannesburg, trained as a lawyer, and worked on South Africa’s post-apartheid constitution and equality laws. She served as Public Protector from 2009 to 2016, investigating abuse of power at the highest levels. Her State of Capture report in 2016 examined claims of political influence over state affairs and made her famous for her courage. She later became a law professor and an advocate for ethical leadership."
+  },
+  {
+    "id": 20,
+    "name": "Tererai Trent",
+    "country": "Zimbabwe",
+    "field": "Education",
+    "region": "oth",
+    "summary": "Married young with little schooling, she later earned a doctorate and founded a foundation to support education.",
+    "challenge": "Starting late and against the odds.",
+    "lesson": "It is never too late to learn.",
+    "bio": "Tererai Trent was born in rural Zimbabwe, where tradition limited girls’ schooling. She married very young and had children, but kept dreaming of an education. She wrote down five goals and buried them in a tin. Years later she moved to the United States, studied while raising her family, and earned a doctorate at Western Michigan University in 2009. She founded the Tinogona Foundation to support schools and girls’ education in Zimbabwe and wrote The Awakened Woman."
+  }
+]
